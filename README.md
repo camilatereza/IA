@@ -6,3 +6,6 @@ Machine learning para jogar o dino do google
   * Selenium
   * Pillow
   * OpenCV
+  * Gym
+  * numpy
+  * stable-baselines
